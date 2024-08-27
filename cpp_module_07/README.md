@@ -2,7 +2,7 @@
     <img src="https://github.com/15Galan/42_project-readmes/blob/master/banners/cursus/projects/cpp_module07-light.png?raw=true#gh-light-mode-only" alt="Banner (claro)" />
     <img src="https://github.com/15Galan/42_project-readmes/blob/master/banners/cursus/projects/cpp_module07-dark.png?raw=true#gh-dark-mode-only" alt="Banner (oscuro)" />
     <br>
-   	C++ casts
+   	Templates
     <br>
     <a href='https://profile.intra.42.fr/users/alvega-g' target="_blank">
         <img alt='42 (oscuro)' src='https://img.shields.io/badge/Málaga-black?style=flat&logo=42&logoColor=white'/>
