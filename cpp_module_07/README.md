@@ -11,8 +11,6 @@
 
 ---
 
-#### For each exercise, the type conversion must be solved using one specific type of casting. Your choice will be checked during defense.
-
 # Exercise 00: Start with a few functions
 
 <table>
