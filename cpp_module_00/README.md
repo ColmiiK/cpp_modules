@@ -96,7 +96,7 @@ stops when the user inputs EXIT.
 
 Give a relevant name to your executable.
 
-# Exercise 01: The Job Of Your Dreams
+# Exercise 02: The Job Of Your Dreams
 
 <table>
 <tr>
