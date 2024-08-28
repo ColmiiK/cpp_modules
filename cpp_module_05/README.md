@@ -159,7 +159,7 @@ If not, print an explicit error message.
 
 Implement and turn in some tests to ensure everything works as expected.
 
-# Exercise 02: At least this beats coffee-making
+# Exercise 03: At least this beats coffee-making
 
 <table>
 <tr>
