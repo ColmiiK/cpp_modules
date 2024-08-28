@@ -11,20 +11,6 @@
 
 ---
 
-# New rules
-
-From now on, all your classes must be designed in the __Orthodox Canonical Form__,
-unless explicitely stated otherwise. Then, they will implement the four required member
-functions below:
-
-- Default constructor
-- Copy constructor
-- Copy assignment operator
-- Destructor
-
-Split your class code into two files. The header file (.hpp/.h) contains the class
-definition whereas the source file (.cpp) contains the implementation.
-
 # Exercise 00: Aaaaand... OPEN!
 
 <table>
