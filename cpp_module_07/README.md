@@ -98,7 +98,7 @@ Turn in a `main.cpp` file that contains your tests. Provide enough code to gener
 
 Your `iter` function template must work with any type of array. The third parameter can be an instantiated function template.
 
-# Exercise 02: Start with a few functions
+# Exercise 02: Array
 
 <table>
 <tr>
